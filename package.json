@@ -1,0 +1,9 @@
+{
+  "name": "ai-phone-short",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio index.ts",
+    "render": "remotion render index.ts Main out/video.mp4"
+  }
+}

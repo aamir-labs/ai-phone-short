@@ -1,0 +1,78 @@
+{
+ "fps": 30,
+ "totalFrames": 1763,
+ "scenes": [
+  {
+   "id": "hook",
+   "text": "Your phone is quietly becoming an AI computer.",
+   "start": 0,
+   "dur": 114,
+   "speechStart": 9,
+   "speechFrames": 92
+  },
+  {
+   "id": "what",
+   "text": "On-device AI runs the model on your phone's own chip, not only on a distant server.",
+   "start": 114,
+   "dur": 206,
+   "speechStart": 9,
+   "speechFrames": 185
+  },
+  {
+   "id": "npu",
+   "text": "Phones now include a neural processor, hardware built for the parallel math behind AI.",
+   "start": 320,
+   "dur": 183,
+   "speechStart": 9,
+   "speechFrames": 162
+  },
+  {
+   "id": "speed",
+   "text": "That can cut waiting, since some requests skip the network, and some features can work offline.",
+   "start": 503,
+   "dur": 206,
+   "speechStart": 9,
+   "speechFrames": 185
+  },
+  {
+   "id": "privacy",
+   "text": "It can help privacy, since some data may stay on the device, but that depends on the app.",
+   "start": 709,
+   "dur": 229,
+   "speechStart": 9,
+   "speechFrames": 208
+  },
+  {
+   "id": "limits",
+   "text": "Now the limits. Phone models are much smaller than data-center models, so they're weaker at complex reasoning.",
+   "start": 938,
+   "dur": 218,
+   "speechStart": 9,
+   "speechFrames": 196
+  },
+  {
+   "id": "cost",
+   "text": "They also cost battery, memory and heat, and phones throttle themselves to stay safe.",
+   "start": 1156,
+   "dur": 183,
+   "speechStart": 9,
+   "speechFrames": 162
+  },
+  {
+   "id": "hybrid",
+   "text": "So the realistic future is hybrid: quick, personal tasks on your phone, heavy work in the cloud.",
+   "start": 1339,
+   "dur": 218,
+   "speechStart": 9,
+   "speechFrames": 196
+  },
+  {
+   "id": "outro",
+   "text": "Your phone isn't replacing the cloud. It's becoming part of it. Follow for more future tech.",
+   "start": 1557,
+   "dur": 206,
+   "speechStart": 9,
+   "speechFrames": 185
+  }
+ ]
+}
